@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creditsbutton.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creditsbutton0000" x="100" y="100" width="768" height="157"/>
+	<SubTexture name="creditsbutton0001" x="100" y="357" width="768" height="157"/>
+	<SubTexture name="creditsbutton0002" x="100" y="614" width="768" height="157"/>
+</TextureAtlas>
